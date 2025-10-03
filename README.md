@@ -24,7 +24,7 @@ Execute the program using runserver command.
 
 # PROGRAM
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,7 +143,7 @@ Execute the program using runserver command.
 </body>
 </html>
 
-'''
+```
 # OUTPUT
 ![alt text](<Screenshot 2025-09-24 110320.png>)
 # RESULT
